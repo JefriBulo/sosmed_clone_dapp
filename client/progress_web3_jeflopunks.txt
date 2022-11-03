@@ -1,0 +1,4 @@
+1. connect metamask button
+2. how to connect to all testnet metamask (etc. polygon)
+3. realtime web3 page
+4. 

@@ -1,0 +1,6 @@
+Contract deployed to:  0xB4A95EE9e05f26Fa48fece73450B915fA07E943e
+Contract deployed to:  0x3c6716DB81077726Af5aE2d3FD158b81479887a4
+Contract deployed to:  0x1e2BEA7B66c096fFaEA35baFCED61Af64ca5295F
+Compiled 1 Solidity file successfully
+Contract deployed to:  0x0fe0702Eb327f57f63FaF8953F862a47a90eB914
+Contract deployed to:  0xbe467E31CFd06Af69d1e5a09009318eA4CFBFC85
